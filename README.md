@@ -11,6 +11,14 @@ This project, crafted with NestJS, comprises two delightful modules:
 1. **Products List Module**: Provides a comprehensive list of beer products.
 2. **Stock and Price Module**: Delve into specific stock and price information for beer products based on an id.
 
+## How to Run Locally with Yarn (Port: 8000)
+### Step-by-Step Guide:
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Install the dependencies using Yarn: `yarn install`.
+4. Start the server locally: `yarn run start:dev`.
+5. Access the application in your browser at `http://localhost:8000`.
+
 ## Requirements
 - Develop a simple backend server with two API endpoints to serve product and size-variants information.
 - Utilize `products.js` and `stock-price.js` to power your endpoints.
